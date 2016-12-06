@@ -9,7 +9,7 @@ html {
   border: 1px solid #b8b7b7;
   background-color: #f9f9f9;
   padding: 15px;
-  height: 205px;
+  height: 225px;
   -webkit-border-bottom-right-radius: 25px;
   -moz-border-radius-bottomright: 25px;
   border-bottom-right-radius: 25px;
@@ -56,6 +56,11 @@ h3 {
   letter-spacing: 0px;
   line-height: 26px;
   margin-top: 0px; }
+
+a {
+  color: #427b12;
+  text-decoration: underline;
+  cursor: pointer; }
 
 .text {
   max-width: 50%;
